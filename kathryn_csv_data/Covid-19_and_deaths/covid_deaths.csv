@@ -1,0 +1,51 @@
+Country,State,Jan_sum,Feb_sum,Mar_sum,Apr_sum,May_sum,Jun_sum,Jul_sum
+Australia,Australian Capital Territory,0,0,2,73,93,90,69
+Australia,New South Wales,0,0,120,750,1415,1447,1127
+Australia,Northern Territory,0,0,0,0,0,0,0
+Australia,Queensland,0,0,9,151,192,180,138
+Australia,South Australia,0,0,0,88,124,120,92
+Australia,Tasmania,0,0,1,183,403,390,299
+Australia,Victoria,0,0,21,394,567,578,674
+Australia,Western Australia,0,0,37,178,277,270,207
+Brazil,,0,0,976,66571,509030,1353392,1661756
+China,Anhui,0,113,186,180,186,180,138
+China,Beijing,5,93,248,245,279,270,207
+China,Chongqing,0,119,186,180,186,180,138
+China,Fujian,0,10,31,30,31,30,23
+China,Gansu,0,43,62,60,62,60,46
+China,Guangdong,0,89,240,240,248,240,184
+China,Guangxi,0,38,62,60,62,60,46
+China,Guizhou,0,37,62,60,62,60,46
+China,Hainan,5,98,182,180,186,180,138
+China,Hebei,9,97,186,180,186,180,138
+China,Heilongjiang,10,249,403,390,403,390,299
+China,Henan,9,341,682,660,682,660,506
+China,Hong Kong,0,37,105,120,124,145,209
+China,Hubei,842,44620,94842,114572,139872,135360,103776
+China,Hunan,0,66,124,120,124,120,92
+China,Inner Mongolia,0,0,29,30,31,30,23
+China,Jiangsu,0,0,0,0,0,0,0
+China,Jiangxi,0,20,31,30,31,30,23
+China,Jilin,0,23,31,30,47,60,46
+China,Liaoning,0,18,43,60,62,60,46
+China,Macau,0,0,0,0,0,0,0
+China,Ningxia,0,0,0,0,0,0,0
+China,Qinghai,0,0,0,0,0,0,0
+China,Shaanxi,0,10,66,90,93,90,69
+China,Shandong,0,72,205,210,217,210,161
+China,Shanghai,6,48,110,203,217,210,161
+China,Shanxi,0,0,0,0,0,0,0
+China,Sichuan,3,57,93,90,93,90,69
+China,Tianjin,0,61,93,90,93,90,69
+China,Tibet,0,0,0,0,0,0,0
+China,Xinjiang,0,27,93,90,93,90,69
+China,Yunnan,0,21,62,60,62,60,46
+China,Zhejiang,0,10,31,30,31,30,23
+India,,0,0,226,14417,94154,331856,541581
+Italy,,0,102,116616,644171,973585,1028841,803984
+"Korea, South",,0,83,2606,6533,8104,8337,6660
+Mexico,,0,0,136,19390,165485,562682,807592
+Russia,,0,0,54,10123,82313,215268,258846
+South Africa,,0,0,12,1363,9779,48178,95813
+Sweden,,0,0,945,39340,110620,148005,127212
+US,,0,1,26160,1035013,2728676,3518537,3116011

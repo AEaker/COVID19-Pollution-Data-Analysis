@@ -1,0 +1,203 @@
+,date,pm25,AQI,Levels of Concern
+808,2018-01-02,87.0,167.2,Unhealthy
+809,2018-01-03,30.0,88.6,Moderate
+810,2018-01-04,46.0,126.9,Unhealthy for Sensitive Groups
+811,2018-01-05,38.0,107.2,Unhealthy for Sensitive Groups
+812,2018-01-06,55.0,149.0,Unhealthy for Sensitive Groups
+813,2018-01-07,38.0,107.2,Unhealthy for Sensitive Groups
+814,2018-01-08,38.0,107.2,Unhealthy for Sensitive Groups
+815,2018-01-09,30.0,88.6,Moderate
+816,2018-01-10,25.0,78.1,Moderate
+817,2018-01-11,38.0,107.2,Unhealthy for Sensitive Groups
+818,2018-01-12,55.0,149.0,Unhealthy for Sensitive Groups
+819,2018-01-13,30.0,88.6,Moderate
+820,2018-01-14,42.0,117.0,Unhealthy for Sensitive Groups
+821,2018-01-15,63.0,154.9,Unhealthy
+822,2018-01-16,30.0,88.6,Moderate
+823,2018-01-17,17.0,61.3,Moderate
+824,2018-01-18,21.0,69.7,Moderate
+825,2018-01-19,21.0,69.7,Moderate
+826,2018-01-20,25.0,78.1,Moderate
+827,2018-01-21,34.0,97.1,Moderate
+828,2018-01-22,34.0,97.1,Moderate
+829,2018-01-23,50.0,136.7,Unhealthy for Sensitive Groups
+830,2018-01-24,59.0,152.8,Unhealthy
+831,2018-01-25,55.0,149.0,Unhealthy for Sensitive Groups
+832,2018-01-26,78.0,162.6,Unhealthy
+833,2018-01-27,76.0,161.6,Unhealthy
+834,2018-01-28,72.0,159.5,Unhealthy
+835,2018-01-29,82.0,164.7,Unhealthy
+836,2018-01-30,85.0,166.2,Unhealthy
+837,2018-01-31,80.0,163.6,Unhealthy
+838,2018-02-01,76.0,161.6,Unhealthy
+839,2018-02-02,38.0,107.2,Unhealthy for Sensitive Groups
+840,2018-02-03,38.0,107.2,Unhealthy for Sensitive Groups
+841,2018-02-04,25.0,78.1,Moderate
+842,2018-02-05,25.0,78.1,Moderate
+843,2018-02-06,25.0,78.1,Moderate
+844,2018-02-07,46.0,126.9,Unhealthy for Sensitive Groups
+845,2018-02-08,30.0,88.6,Moderate
+846,2018-02-09,42.0,117.0,Unhealthy for Sensitive Groups
+847,2018-02-10,53.0,144.1,Unhealthy for Sensitive Groups
+848,2018-02-11,46.0,126.9,Unhealthy for Sensitive Groups
+849,2018-02-12,55.0,149.0,Unhealthy for Sensitive Groups
+850,2018-02-13,65.0,155.9,Unhealthy
+851,2018-02-14,42.0,117.0,Unhealthy for Sensitive Groups
+852,2018-02-15,46.0,126.9,Unhealthy for Sensitive Groups
+853,2018-02-16,46.0,126.9,Unhealthy for Sensitive Groups
+854,2018-02-17,70.0,158.5,Unhealthy
+855,2018-02-18,87.0,167.2,Unhealthy
+856,2018-02-19,63.0,154.9,Unhealthy
+857,2018-02-20,34.0,97.1,Moderate
+858,2018-02-21,46.0,126.9,Unhealthy for Sensitive Groups
+859,2018-02-22,25.0,78.1,Moderate
+860,2018-02-23,34.0,97.1,Moderate
+861,2018-02-24,25.0,78.1,Moderate
+862,2018-02-25,30.0,88.6,Moderate
+863,2018-02-26,30.0,88.6,Moderate
+864,2018-02-27,53.0,144.1,Unhealthy for Sensitive Groups
+865,2018-02-28,72.0,159.5,Unhealthy
+866,2018-03-01,70.0,158.5,Unhealthy
+867,2018-03-02,72.0,159.5,Unhealthy
+868,2018-03-03,46.0,126.9,Unhealthy for Sensitive Groups
+869,2018-03-04,21.0,69.7,Moderate
+870,2018-03-05,25.0,78.1,Moderate
+871,2018-03-06,25.0,78.1,Moderate
+872,2018-03-07,21.0,69.7,Moderate
+873,2018-03-08,13.0,52.9,Moderate
+874,2018-03-09,25.0,78.1,Moderate
+875,2018-03-10,42.0,117.0,Unhealthy for Sensitive Groups
+876,2018-03-11,50.0,136.7,Unhealthy for Sensitive Groups
+877,2018-03-12,34.0,97.1,Moderate
+878,2018-03-13,17.0,61.3,Moderate
+879,2018-03-14,25.0,78.1,Moderate
+880,2018-03-15,42.0,117.0,Unhealthy for Sensitive Groups
+881,2018-03-16,34.0,97.1,Moderate
+882,2018-03-17,25.0,78.1,Moderate
+883,2018-03-18,17.0,61.3,Moderate
+884,2018-03-19,13.0,52.9,Moderate
+885,2018-03-20,17.0,61.3,Moderate
+886,2018-03-21,38.0,107.2,Unhealthy for Sensitive Groups
+887,2018-03-22,25.0,78.1,Moderate
+888,2018-03-23,42.0,117.0,Unhealthy for Sensitive Groups
+889,2018-03-24,46.0,126.9,Unhealthy for Sensitive Groups
+890,2018-03-25,46.0,126.9,Unhealthy for Sensitive Groups
+891,2018-03-26,57.0,151.8,Unhealthy
+892,2018-03-27,46.0,126.9,Unhealthy for Sensitive Groups
+893,2018-03-28,68.0,157.4,Unhealthy
+894,2018-03-29,46.0,126.9,Unhealthy for Sensitive Groups
+895,2018-03-30,21.0,69.7,Moderate
+896,2018-03-31,30.0,88.6,Moderate
+897,2018-04-01,21.0,69.7,Moderate
+719,2018-04-02,25.0,78.1,Moderate
+720,2018-04-03,30.0,88.6,Moderate
+721,2018-04-04,38.0,107.2,Unhealthy for Sensitive Groups
+722,2018-04-05,34.0,97.1,Moderate
+723,2018-04-06,34.0,97.1,Moderate
+724,2018-04-07,38.0,107.2,Unhealthy for Sensitive Groups
+725,2018-04-08,42.0,117.0,Unhealthy for Sensitive Groups
+726,2018-04-09,50.0,136.7,Unhealthy for Sensitive Groups
+727,2018-04-10,21.0,69.7,Moderate
+728,2018-04-11,30.0,88.6,Moderate
+729,2018-04-12,53.0,144.1,Unhealthy for Sensitive Groups
+730,2018-04-13,30.0,88.6,Moderate
+731,2018-04-14,25.0,78.1,Moderate
+732,2018-04-15,59.0,152.8,Unhealthy
+733,2018-04-16,72.0,159.5,Unhealthy
+734,2018-04-17,59.0,152.8,Unhealthy
+735,2018-04-18,55.0,149.0,Unhealthy for Sensitive Groups
+736,2018-04-19,42.0,117.0,Unhealthy for Sensitive Groups
+737,2018-04-20,50.0,136.7,Unhealthy for Sensitive Groups
+738,2018-04-21,55.0,149.0,Unhealthy for Sensitive Groups
+739,2018-04-22,59.0,152.8,Unhealthy
+740,2018-04-23,57.0,151.8,Unhealthy
+741,2018-04-24,50.0,136.7,Unhealthy for Sensitive Groups
+742,2018-04-25,59.0,152.8,Unhealthy
+743,2018-04-26,57.0,151.8,Unhealthy
+744,2018-04-27,57.0,151.8,Unhealthy
+745,2018-04-28,59.0,152.8,Unhealthy
+746,2018-04-29,65.0,155.9,Unhealthy
+747,2018-04-30,50.0,136.7,Unhealthy for Sensitive Groups
+748,2018-05-01,21.0,69.7,Moderate
+749,2018-05-02,30.0,88.6,Moderate
+750,2018-05-03,55.0,149.0,Unhealthy for Sensitive Groups
+751,2018-05-04,46.0,126.9,Unhealthy for Sensitive Groups
+752,2018-05-05,30.0,88.6,Moderate
+753,2018-05-06,25.0,78.1,Moderate
+754,2018-05-07,30.0,88.6,Moderate
+755,2018-05-08,42.0,117.0,Unhealthy for Sensitive Groups
+756,2018-05-09,34.0,97.1,Moderate
+757,2018-05-10,30.0,88.6,Moderate
+758,2018-05-11,42.0,117.0,Unhealthy for Sensitive Groups
+759,2018-05-12,46.0,126.9,Unhealthy for Sensitive Groups
+760,2018-05-13,38.0,107.2,Unhealthy for Sensitive Groups
+761,2018-05-14,34.0,97.1,Moderate
+762,2018-05-15,17.0,61.3,Moderate
+763,2018-05-16,21.0,69.7,Moderate
+764,2018-05-17,17.0,61.3,Moderate
+765,2018-05-18,25.0,78.1,Moderate
+766,2018-05-19,30.0,88.6,Moderate
+767,2018-05-20,38.0,107.2,Unhealthy for Sensitive Groups
+768,2018-05-21,42.0,117.0,Unhealthy for Sensitive Groups
+769,2018-05-22,42.0,117.0,Unhealthy for Sensitive Groups
+770,2018-05-23,30.0,88.6,Moderate
+771,2018-05-24,30.0,88.6,Moderate
+772,2018-05-25,38.0,107.2,Unhealthy for Sensitive Groups
+773,2018-05-26,46.0,126.9,Unhealthy for Sensitive Groups
+774,2018-05-27,53.0,144.1,Unhealthy for Sensitive Groups
+775,2018-05-28,59.0,152.8,Unhealthy
+776,2018-05-29,76.0,161.6,Unhealthy
+777,2018-05-30,61.0,153.8,Unhealthy
+778,2018-05-31,59.0,152.8,Unhealthy
+779,2018-06-03,42.0,117.0,Unhealthy for Sensitive Groups
+780,2018-06-04,42.0,117.0,Unhealthy for Sensitive Groups
+781,2018-06-05,38.0,107.2,Unhealthy for Sensitive Groups
+782,2018-06-06,38.0,107.2,Unhealthy for Sensitive Groups
+783,2018-06-07,42.0,117.0,Unhealthy for Sensitive Groups
+784,2018-06-08,50.0,136.7,Unhealthy for Sensitive Groups
+785,2018-06-09,34.0,97.1,Moderate
+786,2018-06-10,30.0,88.6,Moderate
+787,2018-06-11,30.0,88.6,Moderate
+788,2018-06-12,42.0,117.0,Unhealthy for Sensitive Groups
+789,2018-06-13,34.0,97.1,Moderate
+790,2018-06-14,25.0,78.1,Moderate
+791,2018-06-15,30.0,88.6,Moderate
+792,2018-06-16,30.0,88.6,Moderate
+793,2018-06-17,38.0,107.2,Unhealthy for Sensitive Groups
+794,2018-06-18,46.0,126.9,Unhealthy for Sensitive Groups
+795,2018-06-19,46.0,126.9,Unhealthy for Sensitive Groups
+796,2018-06-20,53.0,144.1,Unhealthy for Sensitive Groups
+797,2018-06-21,50.0,136.7,Unhealthy for Sensitive Groups
+798,2018-06-22,38.0,107.2,Unhealthy for Sensitive Groups
+799,2018-06-23,50.0,136.7,Unhealthy for Sensitive Groups
+800,2018-06-24,34.0,97.1,Moderate
+801,2018-06-25,30.0,88.6,Moderate
+802,2018-06-26,30.0,88.6,Moderate
+803,2018-06-27,34.0,97.1,Moderate
+804,2018-06-28,46.0,126.9,Unhealthy for Sensitive Groups
+805,2018-06-29,38.0,107.2,Unhealthy for Sensitive Groups
+806,2018-06-30,34.0,97.1,Moderate
+807,2018-07-01,42.0,117.0,Unhealthy for Sensitive Groups
+627,2018-07-02,46.0,126.9,Unhealthy for Sensitive Groups
+628,2018-07-03,46.0,126.9,Unhealthy for Sensitive Groups
+629,2018-07-04,55.0,149.0,Unhealthy for Sensitive Groups
+630,2018-07-05,63.0,154.9,Unhealthy
+631,2018-07-06,72.0,159.5,Unhealthy
+632,2018-07-07,55.0,149.0,Unhealthy for Sensitive Groups
+633,2018-07-08,38.0,107.2,Unhealthy for Sensitive Groups
+634,2018-07-09,34.0,97.1,Moderate
+635,2018-07-10,42.0,117.0,Unhealthy for Sensitive Groups
+636,2018-07-11,50.0,136.7,Unhealthy for Sensitive Groups
+637,2018-07-12,46.0,126.9,Unhealthy for Sensitive Groups
+638,2018-07-13,61.0,153.8,Unhealthy
+639,2018-07-14,59.0,152.8,Unhealthy
+640,2018-07-15,59.0,152.8,Unhealthy
+641,2018-07-16,57.0,151.8,Unhealthy
+642,2018-07-17,53.0,144.1,Unhealthy for Sensitive Groups
+643,2018-07-18,34.0,97.1,Moderate
+644,2018-07-19,34.0,97.1,Moderate
+645,2018-07-20,42.0,117.0,Unhealthy for Sensitive Groups
+646,2018-07-21,61.0,153.8,Unhealthy
+647,2018-07-22,55.0,149.0,Unhealthy for Sensitive Groups
+648,2018-07-23,42.0,117.0,Unhealthy for Sensitive Groups
+649,2018-07-24,38.0,107.2,Unhealthy for Sensitive Groups

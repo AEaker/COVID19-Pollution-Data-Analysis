@@ -1,0 +1,196 @@
+,date,pm25,AQI,Levels of Concern
+164,2020-01-02,70.0,158.5,Unhealthy
+165,2020-01-03,85.0,166.2,Unhealthy
+166,2020-01-04,87.0,167.2,Unhealthy
+167,2020-01-05,80.0,163.6,Unhealthy
+168,2020-01-06,53.0,144.1,Unhealthy for Sensitive Groups
+169,2020-01-07,30.0,88.6,Moderate
+170,2020-01-08,70.0,158.5,Unhealthy
+171,2020-01-09,74.0,160.5,Unhealthy
+172,2020-01-10,89.0,168.3,Unhealthy
+173,2020-01-11,97.0,172.4,Unhealthy
+174,2020-01-12,82.0,164.7,Unhealthy
+175,2020-01-13,63.0,154.9,Unhealthy
+176,2020-01-14,74.0,160.5,Unhealthy
+177,2020-01-15,87.0,167.2,Unhealthy
+178,2020-01-16,85.0,166.2,Unhealthy
+179,2020-01-17,91.0,169.3,Unhealthy
+180,2020-01-18,82.0,164.7,Unhealthy
+181,2020-01-19,46.0,126.9,Unhealthy for Sensitive Groups
+182,2020-01-20,30.0,88.6,Moderate
+183,2020-01-21,30.0,88.6,Moderate
+184,2020-01-22,59.0,152.8,Unhealthy
+185,2020-01-23,68.0,157.4,Unhealthy
+186,2020-01-24,97.0,172.4,Unhealthy
+187,2020-01-25,97.0,172.4,Unhealthy
+188,2020-01-26,59.0,152.8,Unhealthy
+189,2020-01-27,59.0,152.8,Unhealthy
+190,2020-01-28,59.0,152.8,Unhealthy
+191,2020-01-29,25.0,78.1,Moderate
+192,2020-01-30,34.0,97.1,Moderate
+193,2020-01-31,38.0,107.2,Unhealthy for Sensitive Groups
+194,2020-02-01,46.0,126.9,Unhealthy for Sensitive Groups
+138,2020-02-02,72.0,159.5,Unhealthy
+139,2020-02-03,53.0,144.1,Unhealthy for Sensitive Groups
+140,2020-02-04,34.0,97.1,Moderate
+141,2020-02-05,42.0,117.0,Unhealthy for Sensitive Groups
+142,2020-02-09,82.0,164.7,Unhealthy
+143,2020-02-10,68.0,157.4,Unhealthy
+144,2020-02-11,34.0,97.1,Moderate
+145,2020-02-12,42.0,117.0,Unhealthy for Sensitive Groups
+146,2020-02-13,53.0,144.1,Unhealthy for Sensitive Groups
+147,2020-02-14,50.0,136.7,Unhealthy for Sensitive Groups
+148,2020-02-15,30.0,88.6,Moderate
+149,2020-02-16,42.0,117.0,Unhealthy for Sensitive Groups
+150,2020-02-17,68.0,157.4,Unhealthy
+151,2020-02-18,55.0,149.0,Unhealthy for Sensitive Groups
+152,2020-02-19,57.0,151.8,Unhealthy
+153,2020-02-20,50.0,136.7,Unhealthy for Sensitive Groups
+154,2020-02-21,50.0,136.7,Unhealthy for Sensitive Groups
+155,2020-02-22,57.0,151.8,Unhealthy
+156,2020-02-23,65.0,155.9,Unhealthy
+157,2020-02-24,70.0,158.5,Unhealthy
+158,2020-02-25,57.0,151.8,Unhealthy
+159,2020-02-26,38.0,107.2,Unhealthy for Sensitive Groups
+160,2020-02-27,46.0,126.9,Unhealthy for Sensitive Groups
+161,2020-02-28,17.0,61.3,Moderate
+162,2020-02-29,30.0,88.6,Moderate
+163,2020-03-01,34.0,97.1,Moderate
+108,2020-03-02,30.0,88.6,Moderate
+109,2020-03-04,34.0,97.1,Moderate
+110,2020-03-05,25.0,78.1,Moderate
+111,2020-03-06,25.0,78.1,Moderate
+112,2020-03-07,21.0,69.7,Moderate
+113,2020-03-08,30.0,88.6,Moderate
+114,2020-03-09,21.0,69.7,Moderate
+115,2020-03-10,30.0,88.6,Moderate
+116,2020-03-11,38.0,107.2,Unhealthy for Sensitive Groups
+117,2020-03-12,53.0,144.1,Unhealthy for Sensitive Groups
+118,2020-03-13,53.0,144.1,Unhealthy for Sensitive Groups
+119,2020-03-14,57.0,151.8,Unhealthy
+120,2020-03-15,46.0,126.9,Unhealthy for Sensitive Groups
+121,2020-03-16,53.0,144.1,Unhealthy for Sensitive Groups
+122,2020-03-17,55.0,149.0,Unhealthy for Sensitive Groups
+123,2020-03-18,65.0,155.9,Unhealthy
+124,2020-03-19,76.0,161.6,Unhealthy
+125,2020-03-20,82.0,164.7,Unhealthy
+126,2020-03-21,78.0,162.6,Unhealthy
+127,2020-03-22,85.0,166.2,Unhealthy
+128,2020-03-23,82.0,164.7,Unhealthy
+129,2020-03-24,68.0,157.4,Unhealthy
+130,2020-03-25,42.0,117.0,Unhealthy for Sensitive Groups
+131,2020-03-26,25.0,78.1,Moderate
+132,2020-03-27,21.0,69.7,Moderate
+133,2020-03-28,17.0,61.3,Moderate
+134,2020-03-29,50.0,136.7,Unhealthy for Sensitive Groups
+135,2020-03-30,65.0,155.9,Unhealthy
+136,2020-03-31,61.0,153.8,Unhealthy
+137,2020-04-01,46.0,126.9,Unhealthy for Sensitive Groups
+82,2020-04-02,38.0,107.2,Unhealthy for Sensitive Groups
+83,2020-04-03,50.0,136.7,Unhealthy for Sensitive Groups
+84,2020-04-04,57.0,151.8,Unhealthy
+85,2020-04-05,57.0,151.8,Unhealthy
+86,2020-04-06,59.0,152.8,Unhealthy
+87,2020-04-07,65.0,155.9,Unhealthy
+88,2020-04-08,72.0,159.5,Unhealthy
+89,2020-04-09,78.0,162.6,Unhealthy
+90,2020-04-10,70.0,158.5,Unhealthy
+91,2020-04-11,74.0,160.5,Unhealthy
+92,2020-04-12,74.0,160.5,Unhealthy
+93,2020-04-13,68.0,157.4,Unhealthy
+94,2020-04-14,63.0,154.9,Unhealthy
+95,2020-04-15,55.0,149.0,Unhealthy for Sensitive Groups
+96,2020-04-16,38.0,107.2,Unhealthy for Sensitive Groups
+97,2020-04-17,42.0,117.0,Unhealthy for Sensitive Groups
+98,2020-04-22,46.0,126.9,Unhealthy for Sensitive Groups
+99,2020-04-23,25.0,78.1,Moderate
+100,2020-04-24,17.0,61.3,Moderate
+101,2020-04-25,50.0,136.7,Unhealthy for Sensitive Groups
+102,2020-04-26,38.0,107.2,Unhealthy for Sensitive Groups
+103,2020-04-27,25.0,78.1,Moderate
+104,2020-04-28,34.0,97.1,Moderate
+105,2020-04-29,25.0,78.1,Moderate
+106,2020-04-30,21.0,69.7,Moderate
+107,2020-05-01,25.0,78.1,Moderate
+52,2020-05-02,21.0,69.7,Moderate
+53,2020-05-03,30.0,88.6,Moderate
+54,2020-05-04,30.0,88.6,Moderate
+55,2020-05-05,30.0,88.6,Moderate
+56,2020-05-06,30.0,88.6,Moderate
+57,2020-05-07,30.0,88.6,Moderate
+58,2020-05-08,50.0,136.7,Unhealthy for Sensitive Groups
+59,2020-05-09,30.0,88.6,Moderate
+60,2020-05-10,42.0,117.0,Unhealthy for Sensitive Groups
+61,2020-05-11,38.0,107.2,Unhealthy for Sensitive Groups
+62,2020-05-12,34.0,97.1,Moderate
+63,2020-05-13,25.0,78.1,Moderate
+64,2020-05-14,61.0,153.8,Unhealthy
+65,2020-05-15,61.0,153.8,Unhealthy
+66,2020-05-16,34.0,97.1,Moderate
+67,2020-05-17,61.0,153.8,Unhealthy
+68,2020-05-18,46.0,126.9,Unhealthy for Sensitive Groups
+69,2020-05-19,57.0,151.8,Unhealthy
+70,2020-05-20,38.0,107.2,Unhealthy for Sensitive Groups
+71,2020-05-22,55.0,149.0,Unhealthy for Sensitive Groups
+72,2020-05-23,42.0,117.0,Unhealthy for Sensitive Groups
+73,2020-05-24,38.0,107.2,Unhealthy for Sensitive Groups
+74,2020-05-25,34.0,97.1,Moderate
+75,2020-05-26,42.0,117.0,Unhealthy for Sensitive Groups
+76,2020-05-27,46.0,126.9,Unhealthy for Sensitive Groups
+77,2020-05-28,34.0,97.1,Moderate
+78,2020-05-29,34.0,97.1,Moderate
+79,2020-05-30,25.0,78.1,Moderate
+80,2020-05-31,30.0,88.6,Moderate
+81,2020-06-01,34.0,97.1,Moderate
+22,2020-06-02,34.0,97.1,Moderate
+23,2020-06-03,30.0,88.6,Moderate
+24,2020-06-04,25.0,78.1,Moderate
+25,2020-06-05,42.0,117.0,Unhealthy for Sensitive Groups
+26,2020-06-06,25.0,78.1,Moderate
+27,2020-06-07,30.0,88.6,Moderate
+28,2020-06-08,30.0,88.6,Moderate
+29,2020-06-09,21.0,69.7,Moderate
+30,2020-06-10,25.0,78.1,Moderate
+31,2020-06-11,25.0,78.1,Moderate
+32,2020-06-12,21.0,69.7,Moderate
+33,2020-06-13,21.0,69.7,Moderate
+34,2020-06-14,25.0,78.1,Moderate
+35,2020-06-15,21.0,69.7,Moderate
+36,2020-06-16,25.0,78.1,Moderate
+37,2020-06-17,30.0,88.6,Moderate
+38,2020-06-18,34.0,97.1,Moderate
+39,2020-06-19,21.0,69.7,Moderate
+40,2020-06-20,30.0,88.6,Moderate
+41,2020-06-21,34.0,97.1,Moderate
+42,2020-06-22,25.0,78.1,Moderate
+43,2020-06-23,30.0,88.6,Moderate
+44,2020-06-24,42.0,117.0,Unhealthy for Sensitive Groups
+45,2020-06-25,34.0,97.1,Moderate
+46,2020-06-26,34.0,97.1,Moderate
+47,2020-06-27,34.0,97.1,Moderate
+48,2020-06-28,38.0,107.2,Unhealthy for Sensitive Groups
+49,2020-06-29,42.0,117.0,Unhealthy for Sensitive Groups
+50,2020-06-30,38.0,107.2,Unhealthy for Sensitive Groups
+51,2020-07-01,30.0,88.6,Moderate
+0,2020-07-02,38.0,107.2,Unhealthy for Sensitive Groups
+1,2020-07-03,38.0,107.2,Unhealthy for Sensitive Groups
+2,2020-07-04,42.0,117.0,Unhealthy for Sensitive Groups
+3,2020-07-05,34.0,97.1,Moderate
+4,2020-07-06,30.0,88.6,Moderate
+5,2020-07-07,25.0,78.1,Moderate
+6,2020-07-08,38.0,107.2,Unhealthy for Sensitive Groups
+7,2020-07-09,30.0,88.6,Moderate
+8,2020-07-10,38.0,107.2,Unhealthy for Sensitive Groups
+9,2020-07-11,46.0,126.9,Unhealthy for Sensitive Groups
+10,2020-07-12,9.0,37.5,Good
+11,2020-07-13,38.0,107.2,Unhealthy for Sensitive Groups
+12,2020-07-14,25.0,78.1,Moderate
+13,2020-07-15,76.0,161.6,Unhealthy
+14,2020-07-16,34.0,97.1,Moderate
+15,2020-07-17,34.0,97.1,Moderate
+16,2020-07-18,42.0,117.0,Unhealthy for Sensitive Groups
+17,2020-07-19,25.0,78.1,Moderate
+18,2020-07-20,13.0,52.9,Moderate
+19,2020-07-21,30.0,88.6,Moderate
+20,2020-07-22,38.0,107.2,Unhealthy for Sensitive Groups
+21,2020-07-23,38.0,107.2,Unhealthy for Sensitive Groups

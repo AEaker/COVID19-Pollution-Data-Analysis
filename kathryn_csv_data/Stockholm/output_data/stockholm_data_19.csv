@@ -1,0 +1,205 @@
+,date,pm25,AQI,Levels of Concern
+480,2019-01-02,15.0,57.1,Moderate
+481,2019-01-03,9.0,37.5,Good
+482,2019-01-04,10.0,41.7,Good
+483,2019-01-05,11.0,45.8,Good
+484,2019-01-06,15.0,57.1,Moderate
+485,2019-01-07,27.0,82.3,Moderate
+486,2019-01-08,20.0,67.6,Moderate
+487,2019-01-09,18.0,63.4,Moderate
+488,2019-01-10,9.0,37.5,Good
+489,2019-01-11,13.0,52.9,Moderate
+490,2019-01-12,15.0,57.1,Moderate
+491,2019-01-13,16.0,59.2,Moderate
+492,2019-01-14,28.0,84.4,Moderate
+493,2019-01-15,18.0,63.4,Moderate
+494,2019-01-16,19.0,65.5,Moderate
+495,2019-01-17,24.0,76.0,Moderate
+496,2019-01-18,15.0,57.1,Moderate
+497,2019-01-19,10.0,41.7,Good
+498,2019-01-20,11.0,45.8,Good
+499,2019-01-21,11.0,45.8,Good
+500,2019-01-22,23.0,73.9,Moderate
+501,2019-01-23,33.0,95.0,Moderate
+502,2019-01-24,49.0,134.2,Unhealthy for Sensitive Groups
+503,2019-01-25,62.0,154.4,Unhealthy
+504,2019-01-26,65.0,155.9,Unhealthy
+505,2019-01-27,44.0,121.9,Unhealthy for Sensitive Groups
+506,2019-01-28,47.0,129.3,Unhealthy for Sensitive Groups
+507,2019-01-29,47.0,129.3,Unhealthy for Sensitive Groups
+508,2019-01-30,51.0,139.2,Unhealthy for Sensitive Groups
+509,2019-01-31,43.0,119.5,Unhealthy for Sensitive Groups
+510,2019-02-01,52.0,141.6,Unhealthy for Sensitive Groups
+511,2019-02-02,38.0,107.2,Unhealthy for Sensitive Groups
+512,2019-02-03,39.0,109.6,Unhealthy for Sensitive Groups
+513,2019-02-04,29.0,86.5,Moderate
+514,2019-02-05,28.0,84.4,Moderate
+515,2019-02-06,32.0,92.8,Moderate
+516,2019-02-07,26.0,80.2,Moderate
+517,2019-02-08,27.0,82.3,Moderate
+518,2019-02-09,37.0,104.7,Unhealthy for Sensitive Groups
+519,2019-02-10,30.0,88.6,Moderate
+520,2019-02-11,23.0,73.9,Moderate
+521,2019-02-12,30.0,88.6,Moderate
+522,2019-02-13,31.0,90.7,Moderate
+523,2019-02-14,23.0,73.9,Moderate
+524,2019-02-15,23.0,73.9,Moderate
+525,2019-02-16,30.0,88.6,Moderate
+526,2019-02-17,47.0,129.3,Unhealthy for Sensitive Groups
+527,2019-02-18,59.0,152.8,Unhealthy
+528,2019-02-19,47.0,129.3,Unhealthy for Sensitive Groups
+529,2019-02-20,64.0,155.4,Unhealthy
+530,2019-02-21,35.0,99.2,Moderate
+531,2019-02-22,37.0,104.7,Unhealthy for Sensitive Groups
+532,2019-02-23,57.0,151.8,Unhealthy
+533,2019-02-24,40.0,112.1,Unhealthy for Sensitive Groups
+534,2019-02-25,41.0,114.5,Unhealthy for Sensitive Groups
+535,2019-02-26,44.0,121.9,Unhealthy for Sensitive Groups
+536,2019-02-27,40.0,112.1,Unhealthy for Sensitive Groups
+537,2019-02-28,44.0,121.9,Unhealthy for Sensitive Groups
+538,2019-03-01,38.0,107.2,Unhealthy for Sensitive Groups
+539,2019-03-02,32.0,92.8,Moderate
+540,2019-03-03,29.0,86.5,Moderate
+541,2019-03-04,24.0,76.0,Moderate
+542,2019-03-05,15.0,57.1,Moderate
+543,2019-03-06,19.0,65.5,Moderate
+544,2019-03-07,23.0,73.9,Moderate
+545,2019-03-08,38.0,107.2,Unhealthy for Sensitive Groups
+546,2019-03-09,33.0,95.0,Moderate
+547,2019-03-10,19.0,65.5,Moderate
+548,2019-03-11,23.0,73.9,Moderate
+549,2019-03-12,32.0,92.8,Moderate
+550,2019-03-13,46.0,126.9,Unhealthy for Sensitive Groups
+551,2019-03-14,34.0,97.1,Moderate
+552,2019-03-15,30.0,88.6,Moderate
+553,2019-03-16,25.0,78.1,Moderate
+554,2019-03-17,17.0,61.3,Moderate
+555,2019-03-18,16.0,59.2,Moderate
+556,2019-03-19,10.0,41.7,Good
+557,2019-03-20,14.0,55.0,Moderate
+558,2019-03-21,24.0,76.0,Moderate
+559,2019-03-22,21.0,69.7,Moderate
+560,2019-03-23,21.0,69.7,Moderate
+561,2019-03-24,27.0,82.3,Moderate
+562,2019-03-25,24.0,76.0,Moderate
+563,2019-03-26,24.0,76.0,Moderate
+564,2019-03-27,23.0,73.9,Moderate
+565,2019-03-28,33.0,95.0,Moderate
+566,2019-03-29,42.0,117.0,Unhealthy for Sensitive Groups
+567,2019-03-30,35.0,99.2,Moderate
+568,2019-03-31,38.0,107.2,Unhealthy for Sensitive Groups
+569,2019-04-01,31.0,90.7,Moderate
+389,2019-04-02,23.0,73.9,Moderate
+390,2019-04-03,32.0,92.8,Moderate
+391,2019-04-04,44.0,121.9,Unhealthy for Sensitive Groups
+392,2019-04-05,61.0,153.8,Unhealthy
+393,2019-04-06,67.0,156.9,Unhealthy
+394,2019-04-07,67.0,156.9,Unhealthy
+395,2019-04-08,70.0,158.5,Unhealthy
+396,2019-04-09,35.0,99.2,Moderate
+397,2019-04-10,21.0,69.7,Moderate
+398,2019-04-11,22.0,71.8,Moderate
+399,2019-04-12,35.0,99.2,Moderate
+400,2019-04-13,34.0,97.1,Moderate
+401,2019-04-14,25.0,78.1,Moderate
+402,2019-04-15,25.0,78.1,Moderate
+403,2019-04-16,38.0,107.2,Unhealthy for Sensitive Groups
+404,2019-04-17,33.0,95.0,Moderate
+405,2019-04-18,39.0,109.6,Unhealthy for Sensitive Groups
+406,2019-04-19,60.0,153.3,Unhealthy
+407,2019-04-20,50.0,136.7,Unhealthy for Sensitive Groups
+408,2019-04-21,51.0,139.2,Unhealthy for Sensitive Groups
+409,2019-04-22,44.0,121.9,Unhealthy for Sensitive Groups
+410,2019-04-23,39.0,109.6,Unhealthy for Sensitive Groups
+411,2019-04-24,60.0,153.3,Unhealthy
+412,2019-04-25,78.0,162.6,Unhealthy
+413,2019-04-26,100.0,174.0,Unhealthy
+414,2019-04-27,90.0,168.8,Unhealthy
+415,2019-04-28,79.0,163.1,Unhealthy
+416,2019-04-29,65.0,155.9,Unhealthy
+417,2019-04-30,41.0,114.5,Unhealthy for Sensitive Groups
+418,2019-05-01,43.0,119.5,Unhealthy for Sensitive Groups
+419,2019-05-02,45.0,124.4,Unhealthy for Sensitive Groups
+420,2019-05-03,30.0,88.6,Moderate
+421,2019-05-04,17.0,61.3,Moderate
+422,2019-05-05,20.0,67.6,Moderate
+423,2019-05-06,20.0,67.6,Moderate
+424,2019-05-07,25.0,78.1,Moderate
+425,2019-05-08,19.0,65.5,Moderate
+426,2019-05-09,20.0,67.6,Moderate
+427,2019-05-10,26.0,80.2,Moderate
+428,2019-05-11,41.0,114.5,Unhealthy for Sensitive Groups
+429,2019-05-12,46.0,126.9,Unhealthy for Sensitive Groups
+430,2019-05-13,30.0,88.6,Moderate
+431,2019-05-14,19.0,65.5,Moderate
+432,2019-05-15,21.0,69.7,Moderate
+433,2019-05-16,26.0,80.2,Moderate
+434,2019-05-17,33.0,95.0,Moderate
+435,2019-05-18,24.0,76.0,Moderate
+436,2019-05-19,27.0,82.3,Moderate
+437,2019-05-20,41.0,114.5,Unhealthy for Sensitive Groups
+438,2019-05-21,52.0,141.6,Unhealthy for Sensitive Groups
+439,2019-05-22,55.0,149.0,Unhealthy for Sensitive Groups
+440,2019-05-23,59.0,152.8,Unhealthy
+441,2019-05-24,51.0,139.2,Unhealthy for Sensitive Groups
+442,2019-05-25,40.0,112.1,Unhealthy for Sensitive Groups
+443,2019-05-26,23.0,73.9,Moderate
+444,2019-05-27,14.0,55.0,Moderate
+445,2019-05-28,13.0,52.9,Moderate
+446,2019-05-29,20.0,67.6,Moderate
+447,2019-05-30,20.0,67.6,Moderate
+448,2019-05-31,15.0,57.1,Moderate
+449,2019-06-01,15.0,57.1,Moderate
+450,2019-06-02,14.0,55.0,Moderate
+451,2019-06-03,19.0,65.5,Moderate
+452,2019-06-04,21.0,69.7,Moderate
+453,2019-06-05,34.0,97.1,Moderate
+454,2019-06-06,46.0,126.9,Unhealthy for Sensitive Groups
+455,2019-06-07,58.0,152.3,Unhealthy
+456,2019-06-08,61.0,153.8,Unhealthy
+457,2019-06-09,47.0,129.3,Unhealthy for Sensitive Groups
+458,2019-06-10,21.0,69.7,Moderate
+459,2019-06-11,18.0,63.4,Moderate
+460,2019-06-12,33.0,95.0,Moderate
+461,2019-06-13,18.0,63.4,Moderate
+462,2019-06-14,43.0,119.5,Unhealthy for Sensitive Groups
+463,2019-06-15,45.0,124.4,Unhealthy for Sensitive Groups
+464,2019-06-16,25.0,78.1,Moderate
+465,2019-06-17,18.0,63.4,Moderate
+466,2019-06-18,19.0,65.5,Moderate
+467,2019-06-19,25.0,78.1,Moderate
+468,2019-06-20,30.0,88.6,Moderate
+469,2019-06-21,35.0,99.2,Moderate
+470,2019-06-22,38.0,107.2,Unhealthy for Sensitive Groups
+471,2019-06-23,12.0,50.0,Good
+472,2019-06-24,11.0,45.8,Good
+473,2019-06-25,14.0,55.0,Moderate
+474,2019-06-26,13.0,52.9,Moderate
+475,2019-06-27,32.0,92.8,Moderate
+476,2019-06-28,35.0,99.2,Moderate
+477,2019-06-29,12.0,50.0,Good
+478,2019-06-30,17.0,61.3,Moderate
+479,2019-07-01,21.0,69.7,Moderate
+297,2019-07-02,23.0,73.9,Moderate
+298,2019-07-03,15.0,57.1,Moderate
+299,2019-07-04,12.0,50.0,Good
+300,2019-07-05,12.0,50.0,Good
+301,2019-07-06,9.0,37.5,Good
+302,2019-07-07,9.0,37.5,Good
+303,2019-07-08,17.0,61.3,Moderate
+304,2019-07-09,13.0,52.9,Moderate
+305,2019-07-10,19.0,65.5,Moderate
+306,2019-07-11,18.0,63.4,Moderate
+307,2019-07-12,22.0,71.8,Moderate
+308,2019-07-13,28.0,84.4,Moderate
+309,2019-07-14,28.0,84.4,Moderate
+310,2019-07-15,15.0,57.1,Moderate
+311,2019-07-16,23.0,73.9,Moderate
+312,2019-07-17,12.0,50.0,Good
+313,2019-07-18,19.0,65.5,Moderate
+314,2019-07-19,29.0,86.5,Moderate
+315,2019-07-20,26.0,80.2,Moderate
+316,2019-07-21,20.0,67.6,Moderate
+317,2019-07-22,21.0,69.7,Moderate
+318,2019-07-23,37.0,104.7,Unhealthy for Sensitive Groups
+319,2019-07-24,18.0,63.4,Moderate

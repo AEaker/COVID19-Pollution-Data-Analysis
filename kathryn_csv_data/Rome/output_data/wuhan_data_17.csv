@@ -1,0 +1,203 @@
+,date,pm25,AQI,Levels of Concern
+1343,2017-01-02,147.0,198.2,Unhealthy
+1163,2017-01-03,74.0,160.5,Unhealthy
+1164,2017-01-04,30.0,88.6,Moderate
+1165,2017-01-05,46.0,126.9,Unhealthy for Sensitive Groups
+1166,2017-01-06,46.0,126.9,Unhealthy for Sensitive Groups
+1167,2017-01-07,13.0,52.9,Moderate
+1168,2017-01-08,25.0,78.1,Moderate
+1169,2017-01-09,59.0,152.8,Unhealthy
+1170,2017-01-10,34.0,97.1,Moderate
+1171,2017-01-11,53.0,144.1,Unhealthy for Sensitive Groups
+1172,2017-01-12,89.0,168.3,Unhealthy
+1173,2017-01-13,80.0,163.6,Unhealthy
+1174,2017-01-15,46.0,126.9,Unhealthy for Sensitive Groups
+1175,2017-01-16,30.0,88.6,Moderate
+1176,2017-01-17,17.0,61.3,Moderate
+1177,2017-01-18,17.0,61.3,Moderate
+1178,2017-01-19,21.0,69.7,Moderate
+1179,2017-01-20,38.0,107.2,Unhealthy for Sensitive Groups
+1180,2017-01-21,55.0,149.0,Unhealthy for Sensitive Groups
+1181,2017-01-22,50.0,136.7,Unhealthy for Sensitive Groups
+1182,2017-01-23,42.0,117.0,Unhealthy for Sensitive Groups
+1183,2017-01-24,50.0,136.7,Unhealthy for Sensitive Groups
+1184,2017-01-25,55.0,149.0,Unhealthy for Sensitive Groups
+1185,2017-01-26,57.0,151.8,Unhealthy
+1186,2017-01-27,78.0,162.6,Unhealthy
+1187,2017-01-28,99.0,173.4,Unhealthy
+1188,2017-01-29,89.0,168.3,Unhealthy
+1189,2017-01-30,82.0,164.7,Unhealthy
+1190,2017-01-31,102.0,175.0,Unhealthy
+1191,2017-02-01,82.0,164.7,Unhealthy
+1192,2017-02-02,30.0,88.6,Moderate
+1193,2017-02-03,46.0,126.9,Unhealthy for Sensitive Groups
+1194,2017-02-04,34.0,97.1,Moderate
+1195,2017-02-05,34.0,97.1,Moderate
+1196,2017-02-06,25.0,78.1,Moderate
+1197,2017-02-07,25.0,78.1,Moderate
+1198,2017-02-08,21.0,69.7,Moderate
+1199,2017-02-09,46.0,126.9,Unhealthy for Sensitive Groups
+1200,2017-02-10,34.0,97.1,Moderate
+1201,2017-02-11,30.0,88.6,Moderate
+1202,2017-02-12,57.0,151.8,Unhealthy
+1203,2017-02-13,63.0,154.9,Unhealthy
+1204,2017-02-14,68.0,157.4,Unhealthy
+1205,2017-02-15,63.0,154.9,Unhealthy
+1206,2017-02-16,80.0,163.6,Unhealthy
+1207,2017-02-17,87.0,167.2,Unhealthy
+1208,2017-02-18,78.0,162.6,Unhealthy
+1209,2017-02-19,25.0,78.1,Moderate
+1210,2017-02-20,30.0,88.6,Moderate
+1211,2017-02-21,55.0,149.0,Unhealthy for Sensitive Groups
+1212,2017-02-22,65.0,155.9,Unhealthy
+1213,2017-02-23,65.0,155.9,Unhealthy
+1214,2017-02-24,63.0,154.9,Unhealthy
+1215,2017-02-25,46.0,126.9,Unhealthy for Sensitive Groups
+1216,2017-02-26,30.0,88.6,Moderate
+1217,2017-02-27,30.0,88.6,Moderate
+1218,2017-02-28,59.0,152.8,Unhealthy
+1219,2017-03-01,55.0,149.0,Unhealthy for Sensitive Groups
+1220,2017-03-02,25.0,78.1,Moderate
+1221,2017-03-03,42.0,117.0,Unhealthy for Sensitive Groups
+1222,2017-03-04,53.0,144.1,Unhealthy for Sensitive Groups
+1223,2017-03-05,30.0,88.6,Moderate
+1224,2017-03-06,17.0,61.3,Moderate
+1225,2017-03-07,25.0,78.1,Moderate
+1226,2017-03-08,17.0,61.3,Moderate
+1227,2017-03-09,17.0,61.3,Moderate
+1228,2017-03-10,25.0,78.1,Moderate
+1229,2017-03-11,30.0,88.6,Moderate
+1230,2017-03-12,13.0,52.9,Moderate
+1231,2017-03-13,38.0,107.2,Unhealthy for Sensitive Groups
+1232,2017-03-14,57.0,151.8,Unhealthy
+1233,2017-03-15,55.0,149.0,Unhealthy for Sensitive Groups
+1234,2017-03-16,65.0,155.9,Unhealthy
+1235,2017-03-17,55.0,149.0,Unhealthy for Sensitive Groups
+1236,2017-03-18,65.0,155.9,Unhealthy
+1237,2017-03-19,42.0,117.0,Unhealthy for Sensitive Groups
+1238,2017-03-20,42.0,117.0,Unhealthy for Sensitive Groups
+1239,2017-03-21,46.0,126.9,Unhealthy for Sensitive Groups
+1240,2017-03-22,55.0,149.0,Unhealthy for Sensitive Groups
+1241,2017-03-23,53.0,144.1,Unhealthy for Sensitive Groups
+1242,2017-03-24,38.0,107.2,Unhealthy for Sensitive Groups
+1243,2017-03-25,59.0,152.8,Unhealthy
+1244,2017-03-26,57.0,151.8,Unhealthy
+1245,2017-03-27,17.0,61.3,Moderate
+1246,2017-03-28,24.0,76.0,Moderate
+1247,2017-03-29,33.0,95.0,Moderate
+1248,2017-03-30,54.0,146.6,Unhealthy for Sensitive Groups
+1249,2017-03-31,53.0,144.1,Unhealthy for Sensitive Groups
+1250,2017-04-01,56.0,151.3,Unhealthy
+1072,2017-04-02,58.0,152.3,Unhealthy
+1073,2017-04-03,50.0,136.7,Unhealthy for Sensitive Groups
+1074,2017-04-04,46.0,126.9,Unhealthy for Sensitive Groups
+1075,2017-04-05,54.0,146.6,Unhealthy for Sensitive Groups
+1076,2017-04-06,53.0,144.1,Unhealthy for Sensitive Groups
+1077,2017-04-07,56.0,151.3,Unhealthy
+1078,2017-04-08,53.0,144.1,Unhealthy for Sensitive Groups
+1079,2017-04-09,53.0,144.1,Unhealthy for Sensitive Groups
+1080,2017-04-10,53.0,144.1,Unhealthy for Sensitive Groups
+1081,2017-04-11,56.0,151.3,Unhealthy
+1082,2017-04-12,34.0,97.1,Moderate
+1083,2017-04-13,49.0,134.2,Unhealthy for Sensitive Groups
+1084,2017-04-14,34.0,97.1,Moderate
+1085,2017-04-15,52.0,141.6,Unhealthy for Sensitive Groups
+1086,2017-04-16,46.0,126.9,Unhealthy for Sensitive Groups
+1087,2017-04-17,49.0,134.2,Unhealthy for Sensitive Groups
+1088,2017-04-18,34.0,97.1,Moderate
+1089,2017-04-19,30.0,88.6,Moderate
+1090,2017-04-20,25.0,78.1,Moderate
+1091,2017-04-21,33.0,95.0,Moderate
+1092,2017-04-22,34.0,97.1,Moderate
+1093,2017-04-23,37.0,104.7,Unhealthy for Sensitive Groups
+1094,2017-04-24,34.0,97.1,Moderate
+1095,2017-04-25,37.0,104.7,Unhealthy for Sensitive Groups
+1096,2017-04-26,52.0,141.6,Unhealthy for Sensitive Groups
+1097,2017-04-27,46.0,126.9,Unhealthy for Sensitive Groups
+1098,2017-04-28,42.0,117.0,Unhealthy for Sensitive Groups
+1099,2017-04-29,25.0,78.1,Moderate
+1100,2017-04-30,29.0,86.5,Moderate
+1101,2017-05-01,33.0,95.0,Moderate
+1102,2017-05-02,41.0,114.5,Unhealthy for Sensitive Groups
+1103,2017-05-03,21.0,69.7,Moderate
+1104,2017-05-04,17.0,61.3,Moderate
+1105,2017-05-05,20.0,67.6,Moderate
+1106,2017-05-06,24.0,76.0,Moderate
+1107,2017-05-07,45.0,124.4,Unhealthy for Sensitive Groups
+1108,2017-05-08,18.0,63.4,Moderate
+1109,2017-05-09,24.0,76.0,Moderate
+1110,2017-05-10,21.0,69.7,Moderate
+1111,2017-05-11,21.0,69.7,Moderate
+1112,2017-05-12,50.0,136.7,Unhealthy for Sensitive Groups
+1113,2017-05-13,38.0,107.2,Unhealthy for Sensitive Groups
+1114,2017-05-14,25.0,78.1,Moderate
+1115,2017-05-15,33.0,95.0,Moderate
+1116,2017-05-16,37.0,104.7,Unhealthy for Sensitive Groups
+1117,2017-05-17,38.0,107.2,Unhealthy for Sensitive Groups
+1118,2017-05-18,25.0,78.1,Moderate
+1119,2017-05-19,45.0,124.4,Unhealthy for Sensitive Groups
+1120,2017-05-20,46.0,126.9,Unhealthy for Sensitive Groups
+1121,2017-05-21,46.0,126.9,Unhealthy for Sensitive Groups
+1122,2017-05-22,25.0,78.1,Moderate
+1123,2017-05-23,37.0,104.7,Unhealthy for Sensitive Groups
+1124,2017-05-24,38.0,107.2,Unhealthy for Sensitive Groups
+1125,2017-05-25,38.0,107.2,Unhealthy for Sensitive Groups
+1126,2017-05-26,38.0,107.2,Unhealthy for Sensitive Groups
+1127,2017-05-27,21.0,69.7,Moderate
+1128,2017-05-28,33.0,95.0,Moderate
+1129,2017-05-29,37.0,104.7,Unhealthy for Sensitive Groups
+1130,2017-05-30,45.0,124.4,Unhealthy for Sensitive Groups
+1131,2017-05-31,42.0,117.0,Unhealthy for Sensitive Groups
+1132,2017-06-01,42.0,117.0,Unhealthy for Sensitive Groups
+1133,2017-06-02,56.0,151.3,Unhealthy
+1134,2017-06-03,57.0,151.8,Unhealthy
+1135,2017-06-04,46.0,126.9,Unhealthy for Sensitive Groups
+1136,2017-06-05,38.0,107.2,Unhealthy for Sensitive Groups
+1137,2017-06-06,41.0,114.5,Unhealthy for Sensitive Groups
+1138,2017-06-07,42.0,117.0,Unhealthy for Sensitive Groups
+1139,2017-06-08,38.0,107.2,Unhealthy for Sensitive Groups
+1140,2017-06-09,41.0,114.5,Unhealthy for Sensitive Groups
+1141,2017-06-10,42.0,117.0,Unhealthy for Sensitive Groups
+1142,2017-06-11,45.0,124.4,Unhealthy for Sensitive Groups
+1143,2017-06-12,49.0,134.2,Unhealthy for Sensitive Groups
+1144,2017-06-13,46.0,126.9,Unhealthy for Sensitive Groups
+1145,2017-06-14,46.0,126.9,Unhealthy for Sensitive Groups
+1146,2017-06-15,42.0,117.0,Unhealthy for Sensitive Groups
+1147,2017-06-16,49.0,134.2,Unhealthy for Sensitive Groups
+1148,2017-06-17,58.0,152.3,Unhealthy
+1149,2017-06-18,57.0,151.8,Unhealthy
+1150,2017-06-19,38.0,107.2,Unhealthy for Sensitive Groups
+1151,2017-06-20,30.0,88.6,Moderate
+1152,2017-06-21,33.0,95.0,Moderate
+1153,2017-06-22,37.0,104.7,Unhealthy for Sensitive Groups
+1154,2017-06-23,45.0,124.4,Unhealthy for Sensitive Groups
+1155,2017-06-24,46.0,126.9,Unhealthy for Sensitive Groups
+1156,2017-06-25,52.0,141.6,Unhealthy for Sensitive Groups
+1157,2017-06-26,46.0,126.9,Unhealthy for Sensitive Groups
+1158,2017-06-27,52.0,141.6,Unhealthy for Sensitive Groups
+1159,2017-06-28,58.0,152.3,Unhealthy
+1160,2017-06-29,59.0,152.8,Unhealthy
+1161,2017-06-30,31.0,90.7,Moderate
+1162,2017-07-01,30.0,88.6,Moderate
+986,2017-07-02,17.0,61.3,Moderate
+987,2017-07-03,21.0,69.7,Moderate
+988,2017-07-04,30.0,88.6,Moderate
+989,2017-07-05,30.0,88.6,Moderate
+990,2017-07-06,34.0,97.1,Moderate
+991,2017-07-07,42.0,117.0,Unhealthy for Sensitive Groups
+992,2017-07-08,34.0,97.1,Moderate
+993,2017-07-09,42.0,117.0,Unhealthy for Sensitive Groups
+994,2017-07-10,38.0,107.2,Unhealthy for Sensitive Groups
+995,2017-07-11,38.0,107.2,Unhealthy for Sensitive Groups
+996,2017-07-12,46.0,126.9,Unhealthy for Sensitive Groups
+997,2017-07-13,50.0,136.7,Unhealthy for Sensitive Groups
+998,2017-07-14,42.0,117.0,Unhealthy for Sensitive Groups
+999,2017-07-15,34.0,97.1,Moderate
+1000,2017-07-16,42.0,117.0,Unhealthy for Sensitive Groups
+1001,2017-07-17,63.0,154.9,Unhealthy
+1002,2017-07-19,59.0,152.8,Unhealthy
+1003,2017-07-20,53.0,144.1,Unhealthy for Sensitive Groups
+1004,2017-07-21,55.0,149.0,Unhealthy for Sensitive Groups
+1005,2017-07-22,55.0,149.0,Unhealthy for Sensitive Groups
+1006,2017-07-23,53.0,144.1,Unhealthy for Sensitive Groups
+1007,2017-07-24,53.0,144.1,Unhealthy for Sensitive Groups
